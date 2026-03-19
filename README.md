@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  A simple app to convert DKK to RON and RON to DKK, built with Flutter.
+  A simple app to convert between Euro, DKK, USD, and RON, built with Flutter.
 </p>
 
 <p align="center">
